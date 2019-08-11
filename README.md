@@ -8,14 +8,16 @@ with Tensor Decomposition in Python.
 ### Videos
 
 * commute.MOV: 10s video of cars on the highway, taken during my afternoon commute
-* patio.MOV: 10s video of looking around the empty patio of one of my favorite cafes
+* patio.MOV: 10s video of the empty patio of one of my favorite cafes
 * parking_lot.MOV: 10s video of a parking lot
 
 ### Analysis
 
-* Development Notebook: Jupyter Notebook containing the analysis of the three previous videos
+* Development Notebook: Jupyter Notebook containing the analysis of the three previous videos to determine
+which pair is most similar
 
 ### License
+
 * LICENSE: MIT license for this project
 
 ## Installation
